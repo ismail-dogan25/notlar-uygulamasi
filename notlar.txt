@@ -1,0 +1,5 @@
+1-cat: Dosya içeriğini ekrana yazar.
+2- mkdir: Yeni bir dosya oluşturur.
+3- ls: Bulunulan konumdaki klasör ve dosyaları listeler.
+4- rm: Dosyaları siler.
+5- pwd: Bulunulan konumun yerini -yolunu- gösterir.
