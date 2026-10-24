@@ -3,3 +3,10 @@
 3- ls: Bulunulan konumdaki klasör ve dosyaları listeler.
 4- rm: Dosyaları siler.
 5- pwd: Bulunulan konumun yerini -yolunu- gösterir.
+
+ Hafta2 komutları
+1. git branch: Var olan branch'ları listeler.
+2. git status: Çalışma alanı ve staging area' daki değişikleri listeler.
+3. git commit: Staging area' daki değişikleri kaydeder.
+4. git log: commit' leri listeler.
+5. git add: Değişikleri staging area' ya  ekler.
